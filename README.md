@@ -15,3 +15,4 @@ The project contains
 When the tilt sensor is activated a yellow LED lights up and a Webhook is sent to IFTTT. From there IFTTT sends an alert via Telegram to the user. Temperture Data is available via the Arduino IoT Cloud Dashboard. 
 
 
+## How Does It Work? Check out the [Instructional Video!](https://drive.google.com/drive/folders/1-Qks3KnsHJbaacsBhZqqk84DiRUJjArF)
